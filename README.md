@@ -7,6 +7,9 @@ This challenge was to create and manipulate Pandas DataFrames to analyze school 
 Functions that were used to analyze the data include: sum, mean, count, value count, dividing and multiplying variables, creating dataframes, groupby, sorting values, creating bins and using panda cut to separate data into the new bins, and formating tables.
 
 ## Py City School Summary
+To analyze school and standardized test data, 15 schools were selected ranging from small (less than 1,000 students) to large (over 4,000 students) and varied between Charter and District. Total school budget, per student budget, average math and reading scores, percentage of students passing math and reading as well as overall passing percentage were analyed to help determine what variables may be linked to producing higher scores and passing percentages. 
+
+
 * As a whole, schools with lower budgets (spending per student), yielded better test results. By contrast, schools with smaller budgets ($585 per student) actually outperformed schools with higher spending ($645-675 per student).
 
 ![spending](https://user-images.githubusercontent.com/120147552/213919360-cbf43ec6-de9c-4116-8a7f-6f97677c1ab2.png)
