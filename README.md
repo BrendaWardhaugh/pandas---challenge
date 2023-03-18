@@ -2,7 +2,7 @@
 
 Please see the attached documents which include jupyter notebook script and the rescourses. 
 
-This challenge was to create and manipulate Pandas DataFrames to analyze school and standardized test data. To do this, two csv files containg data were read and then pandas were used to merge the files together and analyze the data based on a variety of factors. 
+This challenge was to create and manipulate Pandas DataFrames to analyze school and standardized test data. To do this, two csv files containing data were read and then pandas were used to merge the files together and analyze the data based on a variety of factors. 
 
 Functions that were used to analyze the data include: sum, mean, count, value count, dividing and multiplying variables, creating dataframes, groupby, sorting values, creating bins and using panda cut to separate data into the new bins, and formating tables.
 
